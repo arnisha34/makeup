@@ -60,7 +60,7 @@ Learning how to test my code is a challenge but definitely worth the knowledge t
 
 ## Author
 
-- Website - [arnisha34](https://github.com/arnisha34)
+- Github - [arnisha34](https://github.com/arnisha34)
 - Linkedin - [ArNisha Henderson](https://linkedin.com/in/arnisha-henderson)
 
 ## Acknowledgments
