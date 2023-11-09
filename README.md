@@ -50,7 +50,7 @@ Learning how to test my code is a challenge but definitely worth the knowledge t
 
 ### Continued development
 
-- Add node.js to handle stripe.js api for payment testing
+- Use node.js to handle stripe.js api for payment testing
 - Finish building the rest of the components to make this a full blown E-commerce site
 - Add tests using vitest
 
