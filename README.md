@@ -1,17 +1,6 @@
-# Makeup Rocks - Makeup Rocks <3 So Do You
+# Makeup Rocks - <h1>Makeup Rocks :blue_heart: So Do You</h1>
 
 This Website was created as a challenge to show my design and development skills while utilizing a public API.  Enjoy!
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
 
 ### Screenshot
 
