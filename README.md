@@ -38,6 +38,7 @@ Launches the test runner in the interactive watch mode.
 - [TypeScript](https://www.typescriptlang.org/) - JS with syntax for types
 - [Vite](https://vitejs.dev/) - Development environment
 - [Vitest](https://vitest.dev/) - Testing environment
+- [VS Code](https://code.visualstudio.com) - IDE
 
 ### What I learned
 
