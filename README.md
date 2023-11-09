@@ -9,7 +9,7 @@ This Website was created as a challenge to show my design and development skills
 
 ### Installation
 
-Use the package manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (necessary for the project to work).
+Use the package manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (required if you don't already have it installed).
 
 - make sure once the project is downloaded and placed in your ide of choice you do a npm i or npm install to download the necessary dependencies
 needed for the project.
