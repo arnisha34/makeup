@@ -1,4 +1,4 @@
-# Makeup Rocks - <h1>Makeup Rocks :blue_heart: So Do You</h1>
+# <h1>Makeup Rocks :blue_heart: So Do You</h1>
 
 This Website was created as a challenge to show my design and development skills while utilizing a public API.  Enjoy!
 
