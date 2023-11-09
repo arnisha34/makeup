@@ -1,4 +1,4 @@
-|![Makeup Rxcks-desktop](https://github.com/arnisha34/makeup/assets/970143/98e038fa-ce00-43f4-8d89-1edeeabdb34c) | ![Makeup Rxcks-single-product](https://github.com/arnisha34/makeup/assets/970143/3993439a-4279-454c-90c8-1d15bfd454c9) |
+|![Makeup Rxcks-desktop](https://github.com/arnisha34/makeup/assets/970143/98e038fa-ce00-43f4-8d89-1edeeabdb34c) | ![Makeup Rxcks-single-product](https://github.com/arnisha34/makeup/assets/970143/3993439a-4279-454c-90c8-1d15bfd454c9)
 |-|-|
 
 
