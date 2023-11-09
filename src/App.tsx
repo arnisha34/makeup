@@ -42,11 +42,8 @@ export const App = () => {
   const [isLoading, setIsLoading] = useState<boolean>(false)
 
   useEffect(() => {
-
     const url = "http://makeup-api.herokuapp.com/api/v1/products.json";
-
     const fetchData = async () => {
-
       try {
         setIsLoading(true)
         const response = await fetch(url);
@@ -59,7 +56,6 @@ export const App = () => {
     };
     fetchData();
 }, []);
-
 
   return (
     <DataContext.Provider value={{isLoading, makeupData}}>

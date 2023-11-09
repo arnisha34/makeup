@@ -1,6 +1,3 @@
-
-
-
 import { useContext } from "react"
 import { Hero } from "./components/hero"
 
