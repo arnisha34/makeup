@@ -4,7 +4,7 @@ This Website was created as a challenge to show my design and development skills
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Makeup Rxcks-desktop](https://github.com/arnisha34/makeup/assets/970143/98e038fa-ce00-43f4-8d89-1edeeabdb34c)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
