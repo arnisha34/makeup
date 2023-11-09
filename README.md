@@ -9,7 +9,7 @@ This Website was created as a challenge to show my design and development skills
 
 ### Installation
 
-Use the package manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install the dependencies.
+Use the package manager [npm/node](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install the dependencies.
 
 ## My process
 
