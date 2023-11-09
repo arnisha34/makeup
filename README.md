@@ -9,9 +9,24 @@ This Website was created as a challenge to show my design and development skills
 
 ### Installation
 
-Use the package manager [npm/node](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install the dependencies.
+Use the package manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install the dependencies.
 
-## My process
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.<br>
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
+
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.<br>
+See the section about [running tests](#running-tests) for more information.
 
 ### Built with
 
@@ -21,10 +36,7 @@ Use the package manager [npm/node](https://docs.npmjs.com/downloading-and-instal
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- [TypeScript](https://www.typescriptlang.org/) - JS with syntax for types
 
 ### What I learned
 
