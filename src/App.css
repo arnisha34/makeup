@@ -47,6 +47,7 @@ section{
   margin: 50px 5%;
   max-width: 1920px;
   height: calc(100% - 160px);
+  padding: 50px 0;
 }
 
 .boxShadow{
