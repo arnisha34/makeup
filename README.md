@@ -25,8 +25,7 @@ You will also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](#running-tests) for more information.
+Launches the test runner in the interactive watch mode.
 
 ### Built with
 
@@ -37,12 +36,10 @@ See the section about [running tests](#running-tests) for more information.
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [TypeScript](https://www.typescriptlang.org/) - JS with syntax for types
+- [Vite](https://vitejs.dev/) - Development environment
+- [Vitest](https://vitest.dev/) - Testing environment
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
