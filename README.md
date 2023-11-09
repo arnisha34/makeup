@@ -7,10 +7,9 @@ This Website was created as a challenge to show my design and development skills
 ![Makeup Rxcks-desktop](https://github.com/arnisha34/makeup/assets/970143/98e038fa-ce00-43f4-8d89-1edeeabdb34c) | ![Makeup Rxcks-single-product](https://github.com/arnisha34/makeup/assets/970143/3993439a-4279-454c-90c8-1d15bfd454c9)
 |-|-|
 
-### Links
+### Installation
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+Use the package manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install the dependencies.
 
 ## My process
 
