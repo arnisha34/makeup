@@ -56,7 +56,7 @@ Learning how to test my code is a challenge but definitely worth the knowledge t
 
 ### Useful resources
 
-- [Makeup API](http://makeup-api.herokuapp.com)) - The API used for the site which gave me plenty of data to manipulate.
+- [Makeup API](http://makeup-api.herokuapp.com) - The API used for the site which gave me plenty of data to manipulate.
 
 ## Author
 
